@@ -1,0 +1,32 @@
+C:\Users\LENOVO\Desktop\Derya_Algoritma_Final\OkulSistemi\bin\Debug\OkulSistemi.exe.config
+C:\Users\LENOVO\Desktop\Derya_Algoritma_Final\OkulSistemi\bin\Debug\OkulSistemi.exe
+C:\Users\LENOVO\Desktop\Derya_Algoritma_Final\OkulSistemi\bin\Debug\OkulSistemi.pdb
+C:\Users\LENOVO\Desktop\Derya_Algoritma_Final\OkulSistemi\obj\Debug\OkulSistemi.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Derya_Algoritma_Final\OkulSistemi\obj\Debug\OkulSistemi.Giris_Sayfasi.resources
+C:\Users\LENOVO\Desktop\Derya_Algoritma_Final\OkulSistemi\obj\Debug\OkulSistemi.Ogrenci_Girisi.resources
+C:\Users\LENOVO\Desktop\Derya_Algoritma_Final\OkulSistemi\obj\Debug\OkulSistemi.Ogrenci_Sayfasi.resources
+C:\Users\LENOVO\Desktop\Derya_Algoritma_Final\OkulSistemi\obj\Debug\OkulSistemi.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Derya_Algoritma_Final\OkulSistemi\obj\Debug\OkulSistemi.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Derya_Algoritma_Final\OkulSistemi\obj\Debug\OkulSistemi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Derya_Algoritma_Final\OkulSistemi\obj\Debug\OkulSistemi.exe
+C:\Users\LENOVO\Desktop\Derya_Algoritma_Final\OkulSistemi\obj\Debug\OkulSistemi.pdb
+C:\Users\LENOVO\Desktop\Derya_Algoritma_Final\OkulSistemi\obj\Debug\OkulSistemi.Ogrenci_Kayit.resources
+C:\Users\LENOVO\Desktop\Derya_Algoritma_Final\OkulSistemi\obj\Debug\OkulSistemi.Ogretmen_Girisi.resources
+C:\Users\LENOVO\Desktop\Derya_Algoritma_Final\OkulSistemi\obj\Debug\OkulSistemi.Ogretmen_Kayit.resources
+C:\Users\LENOVO\Desktop\Derya_Algoritma_Final\OkulSistemi\obj\Debug\OkulSistemi.Ogretmen_Sayfasi.resources
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\Derya_Algoritma_Final\OkulSistemi\bin\Debug\OkulSistemi.exe.config
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\Derya_Algoritma_Final\OkulSistemi\bin\Debug\OkulSistemi.exe
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\Derya_Algoritma_Final\OkulSistemi\bin\Debug\OkulSistemi.pdb
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\Derya_Algoritma_Final\OkulSistemi\obj\Debug\OkulSistemi.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\Derya_Algoritma_Final\OkulSistemi\obj\Debug\OkulSistemi.Giris_Sayfasi.resources
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\Derya_Algoritma_Final\OkulSistemi\obj\Debug\OkulSistemi.Ogrenci_Girisi.resources
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\Derya_Algoritma_Final\OkulSistemi\obj\Debug\OkulSistemi.Ogrenci_Kayit.resources
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\Derya_Algoritma_Final\OkulSistemi\obj\Debug\OkulSistemi.Ogrenci_Sayfasi.resources
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\Derya_Algoritma_Final\OkulSistemi\obj\Debug\OkulSistemi.Ogretmen_Girisi.resources
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\Derya_Algoritma_Final\OkulSistemi\obj\Debug\OkulSistemi.Ogretmen_Kayit.resources
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\Derya_Algoritma_Final\OkulSistemi\obj\Debug\OkulSistemi.Ogretmen_Sayfasi.resources
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\Derya_Algoritma_Final\OkulSistemi\obj\Debug\OkulSistemi.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\Derya_Algoritma_Final\OkulSistemi\obj\Debug\OkulSistemi.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\Derya_Algoritma_Final\OkulSistemi\obj\Debug\OkulSistemi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\Derya_Algoritma_Final\OkulSistemi\obj\Debug\OkulSistemi.exe
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\Derya_Algoritma_Final\OkulSistemi\obj\Debug\OkulSistemi.pdb
